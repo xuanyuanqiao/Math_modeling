@@ -3,7 +3,7 @@ Mathematical modeling of Drosophila bristle pattern.
 
 Build the model and reproduce the figures of Corson et al.(2017). 
 
-![image](https://github.com/xuanyuanqiao/Math_modeling/blob/main/vedios/cis-inhibition_modeling.gif)
+<img src="https://github.com/xuanyuanqiao/Math_modeling/blob/main/vedios/cis-inhibition_modeling.gif" width="50" height="50">
 
 ### content:
 
