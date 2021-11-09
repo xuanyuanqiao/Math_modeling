@@ -1,5 +1,5 @@
 # Math_modeling
-Mathematical modeling of Drosophila bristle pattern.
+Mathematical modeling of sensory organ patterns in Drosophila.
 
 Build the model and reproduce the figures of Corson et al.(2017). 
 
